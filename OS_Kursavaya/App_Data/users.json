@@ -1,0 +1,17 @@
+﻿[
+  {
+    "Id": 0,
+    "Name": "root",
+    "Password": "b33d8f679b6bd48f3fbe8d14f091757279f02b57f61409fe1e9958a29ee8ffb6"
+  },
+  {
+    "Id": 1,
+    "Name": "user1",
+    "Password": "8bb0cf6eb9b17d0f7d22b456f121257dc1254e1f01665370476383ea776df414"
+  },
+  {
+    "Id": 2,
+    "Name": "trojan",
+    "Password": "e24df920078c3dd4e7e8d2442f00e5c9ab2a231bb3918d65cc50906e49ecaef4"
+  }
+]
